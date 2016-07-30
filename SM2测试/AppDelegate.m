@@ -17,6 +17,11 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+//    test_part4(sm2_param_recommand, TYPE_GFp, 256);
+    
+    
+    
     return YES;
 }
 
